@@ -6,4 +6,4 @@ Software developer with 15+ years of professional experience. Specializing in Py
 
 ### Projects
 
-- [codequalitycheck.com](https://codequalitycheck.com) -- free code quality scanner for websites. 150+ automated checks for best practices, accessibility, performance, and more.
+- [Code Quality Check](https://codequalitycheck.com), a free scanner for live websites. Know what's broken, why, and how to fix it, across code quality, security, performance, SEO, and accessibility.
