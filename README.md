@@ -4,7 +4,7 @@ Software developer with 25 years of writing code, 15+ of them professionally, in
 
 Recently I started a small software team. We build our own products, and take on a small number of consulting and build projects: backend systems, architecture, and helping teams get more out of AI-assisted development, with the quality to match.
 
-Python (Django, Flask), MongoDB, PostgreSQL, Redis, Docker, Terraform, GitHub Actions, Google Cloud, Linux.
+Python (Django, Flask), MongoDB, PostgreSQL, Redis, Docker, Terraform, CI/CD, Google Cloud, Linux.
 ML in production: PyTorch, TensorFlow, scikit-learn.
 
 [yprez.com](https://yprez.com) | [LinkedIn](https://linkedin.com/in/yprez)
